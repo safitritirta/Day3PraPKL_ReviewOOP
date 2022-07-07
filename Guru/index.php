@@ -31,7 +31,7 @@
         </div>
         </nav>
 
-        <center><h2>Guru</h2></center>
+        <center><h2>Guruu</h2></center>
 
         <!-- CARD -->
         <div class="container">
