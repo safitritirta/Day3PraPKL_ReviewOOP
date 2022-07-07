@@ -38,7 +38,7 @@
         <div class="container">
         <div class="card">
             <div class="card-header">
-                Tambah Dataa
+                Tambah Data
             </div>
             <div class="card-body">
                 
